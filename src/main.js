@@ -1,3 +1,9 @@
 import { k } from "./kaboomCtx";
 
-// k.loadSprite("spritesheet,")
+// k.loadSprite("spritesheet, "./location.png", {
+//     sliceX: ,
+//     SliceY: ,
+//     anims: {
+
+//     }
+// })
